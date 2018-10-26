@@ -1,0 +1,6 @@
+name: alter
+type: module
+description: 'alter select list options.'
+package: CUSTOM
+version: VERSION
+core: 8.x

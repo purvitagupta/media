@@ -1,0 +1,28 @@
+<?php
+
+
+//~ function alter_form_alter(&$form, &$form_state, $form_id) {
+	
+//~ echo "swati";
+  //~ if($form_id == 'views_exposed_form'){
+
+      //~ $nodes = db_select('node', 'n')
+        //~ ->fields('n', array('title'))
+        //~ ->condition('type', 'news')
+        //~ ->orderBy('n.title', 'ASC')
+        //~ ->execute();
+      //~ $dropdown_array = array('' => t('-- Any --'));
+      //~ foreach ($nodes as $node) {
+        //~ $dropdown_array[$node->title] = $node->title;
+      //~ }
+
+      //~ // Alter form
+      //~ $form['title'] = array(     
+         //~ '#type' => 'select',
+         //~ '#default_value' => '1',        
+         //~ '#options' => $dropdown_array,
+      //~ ); 
+
+   //~ }//endif
+
+//~ }

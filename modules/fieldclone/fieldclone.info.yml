@@ -1,0 +1,13 @@
+name: "Field Clone"
+type: module
+description: "Example usage: node/add/page?fieldclone=node:17:field_common|node:23:field_source:field_target"
+# core: 8.x
+package: clever-systems.net
+configure: fieldclone.information
+dependencies:
+  - replicate
+# Information added by Drupal.org packaging script on 2017-11-20
+version: '8.x-1.0-beta3'
+core: '8.x'
+project: 'fieldclone'
+datestamp: 1511139787

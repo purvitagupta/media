@@ -1,0 +1,13 @@
+name: Extra Field test
+type: module
+description: 'Provides Extra Field plugins for tests.'
+hidden: true
+# core: 8.x
+dependencies:
+  - extra_field
+
+# Information added by Drupal.org packaging script on 2017-12-31
+version: '8.x-1.0'
+core: '8.x'
+project: 'extra_field'
+datestamp: 1514722389

@@ -1,0 +1,12 @@
+name: Extra Field example
+type: module
+description: 'Provides Extra Field plugin examples .'
+# core: 8.x
+dependencies:
+  - extra_field
+
+# Information added by Drupal.org packaging script on 2017-12-31
+version: '8.x-1.0'
+core: '8.x'
+project: 'extra_field'
+datestamp: 1514722389
